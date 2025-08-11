@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 import datetime as dt
 
-
+#Ajuste de la aplicación  - cambio nueva rama 
 
 app = dash.Dash(
     __name__,
