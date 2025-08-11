@@ -9,6 +9,8 @@ import datetime as dt
 
 # Ajuste de la aplicación  - cambio nueva rama 
 # Ajuste de la aplicación  - MERGE CON NUEVA RAMA
+# Ajuste de la aplicación  - SYNC CHANGES 
+
 
 app = dash.Dash(
     __name__,
