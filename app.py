@@ -7,7 +7,8 @@ import numpy as np
 import pandas as pd
 import datetime as dt
 
-#Ajuste de la aplicación  - cambio nueva rama 
+# Ajuste de la aplicación  - cambio nueva rama 
+# Ajuste de la aplicación  - MERGE CON NUEVA RAMA
 
 app = dash.Dash(
     __name__,
